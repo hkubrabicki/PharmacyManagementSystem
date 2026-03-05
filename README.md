@@ -36,8 +36,4 @@
 * **Veritabanı:** MySQL
 * **Dosya İşlemleri:** Java File API (FileWriter, BufferedReader vb.)
 
----
 
-**Yükleme Notu:** Bu metni ekledikten sonra, elindeki **Analysis document.pdf** dosyasını da projeye eklemeyi unutma. CV'nde bu dökümanın olması "analiz yeteneğini" de kanıtlar.
-
-Başka bir düzenleme istersen hemen yapabiliriz!
